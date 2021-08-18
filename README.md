@@ -1,5 +1,5 @@
 # sendoff-search
-Have an arbitrary afternoon, a wonderful Wednesday, and an august August
+Have an arbitrary afternoon, a wonderful Wednesday, and an august August!
 
 I like ending my emails with an alliterative greeting. This makes it easier to find the adjective to pair with the greeting. 
 
