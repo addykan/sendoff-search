@@ -46,7 +46,7 @@ def getDefinition(word):
 def main():
     wordToCheck = "42"
     while (not wordToCheck.isalpha()):
-        wordToCheck = input("Enter starting letter to search for: ")
+        wordToCheck = input("Enter word prefix to search for: ")
     print(f"Checking word {wordToCheck}...")
     again = "Y"
     resultWords = set()
